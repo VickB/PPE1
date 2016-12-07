@@ -72,8 +72,8 @@ public class ServiceREST {
 		}
 		return statut;
 	}
-	/*
-	private void journaliser() throws IOException, TimeoutException {
+	
+	/*private void journaliser() throws IOException, TimeoutException {
 		ConnectionFactory factory = new ConnectionFactory();
 	    factory.setHost("rabbitmq");
 	    Connection connexion = (Connection) factory.newConnection();
@@ -83,6 +83,7 @@ public class ServiceREST {
 	    System.out.println(" [x] Envoyé '" + messageJournal + "'");
 	    channel.close();
 	    connexion.close();
-	    */
-	}
+	    
+	}*/
 
+}
