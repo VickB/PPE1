@@ -29,7 +29,7 @@ public class ServiceREST {
 		MessageDTO message = new MessageDTO();
 		
 		if(authentifier(email, password)) {
-			message.setBienvenue("Bienvenue " + nomprenom);
+			message.setBienvenue("Bienvenue " + nomprenom );
 			message.setRole(role);
 		}
 		else
