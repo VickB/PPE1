@@ -1,0 +1,47 @@
+package modele;
+
+public class Projet {
+	
+	private String nomp;
+	private String langage;
+	private int duree_joursHomme;
+	private Developpeur developpeur;
+	
+	public Projet() {
+		super();
+		
+	}
+	public Projet(String nomp, String langage, int duree_joursHomme) {
+		super();
+		this.nomp = nomp;
+		this.langage = langage;
+		this.duree_joursHomme = duree_joursHomme;
+	}
+	public String getNomp() {
+		return nomp;
+	}
+	public void setNomp(String nomp) {
+		this.nomp = nomp;
+	}
+	public String getLangage() {
+		return langage;
+	}
+	public void setLangage(String langage) {
+		this.langage = langage;
+	}
+	public int getDuree_joursHomme() {
+		return duree_joursHomme;
+	}
+	public void setDuree_joursHomme(int duree_joursHomme) {
+		this.duree_joursHomme = duree_joursHomme;
+	}
+	public Developpeur getDeveloppeur() {
+		return developpeur;
+	}
+	public void setDeveloppeur(Developpeur developpeur) {
+		this.developpeur = developpeur;
+	}
+
+
+
+}

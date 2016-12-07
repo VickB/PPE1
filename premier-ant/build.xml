@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="project" default="execution">
+<description>
+	compilation, paquetage(jar executable),execution
+</description>
+   
+    <target name="execution" depends="paquetage">
+    	<java args="jar" jar="${basedir}/premier-ant.jar" fork="true">
+        </java>        
+    </target>
+
+    
+    <target name="compilation">
+    	<javac srcdir="${basedir}/src" destdir="${basedir}/bin"></javac>
+    </target>
+
+	<target name="paquetage" depends="compilation">
+	<jar destfile="${basedir}/premier-ant.jar" basedir="${basedir}/bin">
+		<manifest>
+			<attribute name="Main-Class" value="bonjour.BonjourLeMonde"/>
+		</manifest>
+	</jar>
+	</target>
+	
+</project>

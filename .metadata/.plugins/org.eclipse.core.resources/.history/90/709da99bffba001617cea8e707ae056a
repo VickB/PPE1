@@ -1,0 +1,9 @@
+package modele;
+
+public class Developpeur {
+	
+	private String nom;
+	private String prenom;
+	private String date_embauche;
+
+}
