@@ -31,7 +31,7 @@ public class Creation {
 		Action a1 = new Action("rediger son annonce","rediger son annonce",new Date(),"administrateur");
 		Action a2 = new Action("gérer son annonce","gérer son annonce",new Date(),"administrateur");
 		Action a3 = new Action("accepter une guitare en dépôt-vente","accepter une guitare en dépôt-vente",new Date(),"administrateur");
-//		Action a4 = new Action("vendre une guitare","vendre une guitare",new Date(),"administrateur");
+//		Action a4 = new Action("vendre une guitare","vendre une guitare",new Date(),"administrateur");//
 		
 		
 		em.persist(r1);
