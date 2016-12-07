@@ -44,9 +44,9 @@ public class Creation {
 		
 		em.persist(a1);
 		em.persist(a2);
-		em.persist(a3);*/
+		em.persist(a3);
 		em.persist(a4);
-		
+		*/
 		em.getTransaction().commit();
 		
 		em.close();
