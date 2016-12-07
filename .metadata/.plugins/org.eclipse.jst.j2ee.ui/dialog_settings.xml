@@ -6,9 +6,10 @@
 		<item value="NULL_RUNTIME"/>
 	</list>
 	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="/home/invite/workspace/authentificateur.war"/>
+		<item value="/home/invite/workspace/ihm.war"/>
+		<item value="/home/invite/workspace/authentification.war"/>
+		<item value="/home/invite/workspace/authentification_Client.war"/>
 		<item value="/home/invite/workspace/authentification/client.war"/>
-		<item value="/home/invite/workspace/authentification/serveur.war"/>
-		<item value="/home/invite/workspace/authentification/jpa.war"/>
-		<item value="/home/invite/workspace/authentification/authentification.war"/>
 	</list>
 </section>

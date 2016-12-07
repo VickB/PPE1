@@ -54,6 +54,7 @@ public class ServiceREST {
 				else {
 						nomprenom = utilisateur.getNom() + " " + utilisateur.getPrenom();
 						messageJournal = email + " accès " + new Date();
+						role = utilisateur.getRole().getRole();
 						statut = true;
 				}
 				
