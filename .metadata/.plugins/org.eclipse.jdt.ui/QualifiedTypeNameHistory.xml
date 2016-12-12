@@ -18,9 +18,6 @@
 <fullyQualifiedTypeName name="modele.Developpeur"/>
 <fullyQualifiedTypeName name="modele.DeveloppeurDesktop"/>
 <fullyQualifiedTypeName name="javax.persistence.Column"/>
-<fullyQualifiedTypeName name="org.glassfish.jersey.client.HttpUrlConnectorProvider.ConnectionFactory"/>
-<fullyQualifiedTypeName name="java.io.IOException"/>
-<fullyQualifiedTypeName name="java.util.concurrent.TimeoutException"/>
 <fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
 <fullyQualifiedTypeName name="javax.persistence.Persistence"/>
 <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
@@ -28,4 +25,9 @@
 <fullyQualifiedTypeName name="modele.Role"/>
 <fullyQualifiedTypeName name="modele.Action"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeoutException"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.nio.channels.Channel"/>
+<fullyQualifiedTypeName name="org.glassfish.jersey.client.HttpUrlConnectorProvider.ConnectionFactory"/>
 </qualifiedTypeNameHistroy>

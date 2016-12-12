@@ -56,5 +56,5 @@ public class AuthentificationGUI {
 		this.message = message;
 	}
 
-	//
+	
 }
