@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ppe-ihm-serveurJPA&apos; to &apos;ppe-creation-utilisateurs-serveur&apos;" description="Rename resource &apos;ppe-ihm-serveurJPA&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/ppe-ihm-serveurJPA" name="ppe-creation-utilisateurs-serveur" stamp="1483543400632" updateReferences="true"/>
+</session>
