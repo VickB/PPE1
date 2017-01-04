@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item value="/opt/logiciels/frameworks" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="/opt/logiciels/librairies/commons-lang3-3.5" key="org.eclipse.jdt.ui.lastextjar"/>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
 		<item value="false" key="renameSubpackages"/>
 		<item value="false" key="updateQualifiedNames"/>
@@ -63,6 +63,9 @@
 		<item value="785" key="DIALOG_HEIGHT"/>
 		<item value="175" key="DIALOG_X_ORIGIN"/>
 		<item value="3" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ClasspathContainerSelectionPage">
+		<item value="8" key="index"/>
 	</section>
 	<section name="NewPackageWizardPage">
 		<item value="false" key="create_package_info_java"/>

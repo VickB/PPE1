@@ -25,9 +25,11 @@
 <fullyQualifiedTypeName name="modele.Role"/>
 <fullyQualifiedTypeName name="modele.Action"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="org.glassfish.jersey.client.HttpUrlConnectorProvider.ConnectionFactory"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
 <fullyQualifiedTypeName name="java.util.concurrent.TimeoutException"/>
 <fullyQualifiedTypeName name="java.sql.Connection"/>
 <fullyQualifiedTypeName name="java.nio.channels.Channel"/>
-<fullyQualifiedTypeName name="org.glassfish.jersey.client.HttpUrlConnectorProvider.ConnectionFactory"/>
+<fullyQualifiedTypeName name="com.rabbitmq.client.ConnectionFactory"/>
+<fullyQualifiedTypeName name="com.rabbitmq.client.Channel"/>
 </qualifiedTypeNameHistroy>
