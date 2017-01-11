@@ -26,10 +26,21 @@
 <fullyQualifiedTypeName name="modele.Action"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="org.glassfish.jersey.client.HttpUrlConnectorProvider.ConnectionFactory"/>
-<fullyQualifiedTypeName name="java.io.IOException"/>
 <fullyQualifiedTypeName name="java.util.concurrent.TimeoutException"/>
 <fullyQualifiedTypeName name="java.sql.Connection"/>
 <fullyQualifiedTypeName name="java.nio.channels.Channel"/>
 <fullyQualifiedTypeName name="com.rabbitmq.client.ConnectionFactory"/>
 <fullyQualifiedTypeName name="com.rabbitmq.client.Channel"/>
+<fullyQualifiedTypeName name="javax.servlet.http.Part"/>
+<fullyQualifiedTypeName name="ressources.FournisseurDePersistance"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="org.xml.sax.XMLReader"/>
+<fullyQualifiedTypeName name="org.xml.sax.helpers.XMLReaderFactory"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="parsing.ParametrageParsing"/>
+<fullyQualifiedTypeName name="org.xml.sax.InputSource"/>
+<fullyQualifiedTypeName name="org.xml.sax.SAXException"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>

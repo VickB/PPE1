@@ -6,10 +6,10 @@
 		<item value="NULL_RUNTIME"/>
 	</list>
 	<list key="J2EE_EXPORT_JST_WEB">
-		<item value="/home/invite/workspace/journalisateur.war"/>
-		<item value="/home/invite/workspace/ihm.war"/>
-		<item value="/home/invite/workspace/authentificateur.war"/>
-		<item value="/home/invite/workspace/authentification.war"/>
-		<item value="/home/invite/workspace/authentification_Client.war"/>
+		<item value="/home/invite/Public/ppe-creation-utilisateurs-serveur.war"/>
+		<item value="/home/invite/Public/ppe-ihm-upload.war"/>
+		<item value="/home/invite/workspace/pppe-creation-utilisateurs-serveur.war"/>
+		<item value="/home/invite/workspace/ppe-ihm-serveurJPA.war"/>
+		<item value="/home/invite/workspace/ppe-ihm-upload.war"/>
 	</list>
 </section>

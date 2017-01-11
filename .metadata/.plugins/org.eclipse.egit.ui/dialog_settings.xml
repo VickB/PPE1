@@ -24,15 +24,11 @@
 	</section>
 	<section name="GitCommitMessageComponent">
 		<list key="/home/invite/workspace/.git">
-			<item value="false"/>
-			<item value="invite &lt;invite@linux15.btssio&gt;"/>
-			<item value="."/>
-			<item value="invite &lt;invite@linux15.btssio&gt;"/>
-			<item value="708464ebadd01a31f5be40be81ddfaedbc83c374"/>
+			<item value="empty"/>
 		</list>
 	</section>
 	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
-		<item value="500,500" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="284,710" key="STAGING_SASH_FORM_WEIGHT"/>
 		<item value="false" key="sortItemState"/>
 		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
 	</section>
