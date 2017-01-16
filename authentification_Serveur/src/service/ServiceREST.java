@@ -23,7 +23,7 @@ import ressource.MessageDTO;
 @Path("dto")
 public class ServiceREST {
 	
-	private final static String QUEUE_NAME = "journal";
+	private final static String QUEUE_NAME = "journal-des-authentifications";
 	private String messageJournal;
 	private String nomprenom;
 	private String role;
