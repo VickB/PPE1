@@ -22,7 +22,6 @@
 <fullyQualifiedTypeName name="javax.persistence.Persistence"/>
 <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
 <fullyQualifiedTypeName name="modele.Utilisateur"/>
-<fullyQualifiedTypeName name="modele.Role"/>
 <fullyQualifiedTypeName name="modele.Action"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="org.glassfish.jersey.client.HttpUrlConnectorProvider.ConnectionFactory"/>
@@ -43,4 +42,5 @@
 <fullyQualifiedTypeName name="org.xml.sax.SAXException"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="modele.Role"/>
 </qualifiedTypeNameHistroy>

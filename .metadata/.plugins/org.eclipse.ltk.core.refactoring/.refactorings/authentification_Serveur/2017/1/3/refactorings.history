@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 elements to &apos;ppe-creation-utilisateurs-serveur/src/modele&apos;&#x0A;- Original project: &apos;authentification_Serveur&apos;&#x0A;- Destination element: &apos;ppe-creation-utilisateurs-serveur/src/modele&apos;&#x0A;- Original elements:&#x0A;     modele.Action.java&#x0A;     modele.Role.java&#x0A;     modele.Utilisateur.java&#x0A;- Update references to refactored element" description="Move compilation units" destination="=ppe-creation-utilisateurs-serveur/src&lt;modele" element1="/src&lt;modele{Action.java" element2="/src&lt;modele{Role.java" element3="/src&lt;modele{Utilisateur.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1484750213344" units="3" version="1.0"/>
+</session>

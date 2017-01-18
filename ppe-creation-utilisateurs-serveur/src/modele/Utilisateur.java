@@ -33,9 +33,9 @@ public class Utilisateur {
 	private Date derniere_mise_a_jour;
 	@Column(nullable = false)
 	private String modifie_par;
-	// @ManyToOne
-	// @JoinColumn(name = "ROLE_FK")
-	// private Role role;
+	@ManyToOne
+	@JoinColumn(name = "ROLE_FK")
+	private Role role;
 
 	public Utilisateur() {
 		super();
@@ -108,14 +108,6 @@ public class Utilisateur {
 		this.idutilisateur = idutilisateur;
 	}
 
-	@Override
-	public String toString() {
-		return "Utilisateur [email=" + email + ", password=" + password + ", nom=" + nom + ", prenom=" + prenom + "]";
-	}
-	
-	
-	
-	/*
 	public Role getRole() {
 		return role;
 	}
@@ -123,5 +115,5 @@ public class Utilisateur {
 	public void setRole(Role role) {
 		this.role = role;
 	}
-	*/
+
 }

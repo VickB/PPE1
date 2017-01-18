@@ -4,16 +4,23 @@ import java.util.List;
 
 import javax.persistence.EntityManager;
 
-import modele.Role;
 import modele.Utilisateur;
 import ressource.FournisseurDePersistance;
 
 public class Resultat {
 
-	private List<Utilisateur> utilisateurs;
+	private List<Utilisateur> employees;
 
 	public Resultat() {
 		super();
+	}
+
+	public void setEmployees(List<Utilisateur> employees) {
+		this.employees = employees;
+	}
+
+	public List<Utilisateur> getEmployees() {
+		return employees;
 	}
 	
 	public boolean enregistrer() {
@@ -33,12 +40,4 @@ public class Resultat {
 		}		
 	}
 
-	public List<Utilisateur> getUtilisateurs() {
-		return utilisateurs;
-	}
-
-	public void setUtilisateurs(List<Utilisateur> utilisateurs) {
-		this.utilisateurs = utilisateurs;
-	}
-	
 }
