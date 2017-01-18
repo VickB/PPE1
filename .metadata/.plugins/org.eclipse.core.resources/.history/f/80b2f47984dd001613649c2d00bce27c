@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Utilisateurs SYSTEM "nouveaux-utilisateurs.dtd" >
+<Utilisateurs>
+  <utilisateur>
+    <email>email</email>
+    <nom>nom</nom>
+    <prenom>prenom</prenom>
+  </utilisateur>
+</Utilisateurs>
